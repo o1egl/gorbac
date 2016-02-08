@@ -2,8 +2,8 @@ goRBAC
 ======
 
 [![GoDoc](https://godoc.org/github.com/o1egl/gorbac?status.svg)](https://godoc.org/github.com/o1egl/gorbac)
-[![Build Status](http://img.shields.io/travis/o1egl/gorbac.svg?style=flat-square)](https://travis-ci.org/o1egl/gorbac)
-[![Build status](https://ci.appveyor.com/api/projects/status/em3qo2mils0kj0mv/branch/master?svg=true)](https://ci.appveyor.com/project/o1egl/elogs/branch/master)
+[![Travis Build Status](http://img.shields.io/travis/o1egl/gorbac.svg?style=flat-square)](https://travis-ci.org/o1egl/gorbac)
+[![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/fjb82hduklvtq36f/branch/master?svg=true)](https://ci.appveyor.com/project/o1egl/gorbac/branch/master)
 [![Coverage Status](http://img.shields.io/coveralls/o1egl/gorbac.svg?style=flat-square)](https://coveralls.io/r/o1egl/gorbac)
 [![License](http://img.shields.io/:license-mit-blue.svg)](LICENSE)
 
